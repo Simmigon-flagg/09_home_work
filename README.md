@@ -3,7 +3,11 @@
 Create a script, called args.sh. As a sanity check, add the line: echo "hello, world", and run the script.
 
 from `sh args.sh`
-
+```bash
+echo "Hello, world"
+echo $0
+echo $1
+```
 Print out $0.
 Answer: args.sh
 
