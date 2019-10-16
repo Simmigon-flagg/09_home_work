@@ -43,3 +43,5 @@ else
   echo "Done."
 fi
 ````
+mkdircd
+![Screenshot (147)](https://user-images.githubusercontent.com/8258629/66887185-16593500-efa8-11e9-86c0-3568a7b3be59.png)
